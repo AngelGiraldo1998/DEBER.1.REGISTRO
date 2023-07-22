@@ -1,0 +1,4 @@
+![image](https://github.com/AngelGiraldo1998/DEBER.1.REGISTRO/assets/135383502/681eb1cb-5557-4eb6-bdad-4bbcc280082a)
+# DEBER.1.REGISTRO
+DESARROLLAR UNA APLICACIÓN MÓVIL ANDROID CON EL USO DE LOS CONTROLES COMUNES DE LA INTERFAZ DE USUARIO (UI) DE ANDROID
+![My Application6 – activity_main xml  My_Application6 app main  21_7_2023 23_23_35](https://github.com/AngelGiraldo1998/DEBER.1.REGISTRO/assets/135383502/e587e2d6-b6d6-4611-9760-85e52946aeb9)
